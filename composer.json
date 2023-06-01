@@ -1,0 +1,21 @@
+{
+    "name": "bcoded/avang",
+    "description": "A php library to securely protect php script from un-authorized access",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bcoded\\Avang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christopher okoye"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/var-dumper": "5.4.x-dev",
+        "nesbot/carbon": "^2.0@dev"
+    }
+}
