@@ -1,6 +1,6 @@
 {
     "name": "bcoded/avang",
-    "description": "A php library to securely protect php script from un-authorized access",
+    "description": "Avang Licenser is a PHP library designed to enhance the security of PHP scripts by implementing a robust license system, preventing unauthorized access and usage.",
     "type": "library",
     "license": "MIT",
     "autoload": {
